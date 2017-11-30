@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/SergeiKPI/lab_5.svg?branch=master)](https://travis-ci.org/SergeiKPI/lab_5)
