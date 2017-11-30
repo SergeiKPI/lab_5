@@ -1,1 +1,2 @@
 [![Build Status](https://travis-ci.org/SergeiKPI/lab_5.svg?branch=master)](https://travis-ci.org/SergeiKPI/lab_5)
+[![codecov](https://codecov.io/gh/SergeiKPI/lab_5/branch/master/graph/badge.svg)](https://codecov.io/gh/SergeiKPI/lab_5)
